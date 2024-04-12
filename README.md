@@ -153,7 +153,7 @@ ERPnext로 구매 주문 송장뿐만 아니라 매출 계산서의 자동 생�
 #### 8) Crop Cycle 작물 주기 관리 / 홍예준
 (대시보드에 주기관리 항목을 선택 -> 주기(생애) 추가 버튼을 클릭 -> 보이는 양식에 작물의 종류, 주기 이름, 시작일 및 종료일 등의 필요한 정보를 입력 -> 저장 버튼 클릭)
 
-(https://raw.githubusercontent.com/dbsgus16/oss_10/e115b963b29e3f6e5ab37173f0b2ef031ad68d11/%EC%9E%91%EB%AC%BC%EC%A3%BC%EA%B8%B0%EA%B4%80%EB%A6%AC.PNG)
+![B](https://github.com/dbsgus16/oss_10/blob/main/%EC%9E%91%EB%AC%BC%EC%A3%BC%EA%B8%B0%EA%B4%80%EB%A6%AC.PNG)
 
 성장에 영향을 미치는 생육 환경(온도, 습도, 토양 조성 등)을 조건에 맞게 원격으로 조절합니다. 
 나아가 토양 소진을 방지하고 작물 생산성을 극대화하기 위해 작물 회전 일정을 관리합니다.
